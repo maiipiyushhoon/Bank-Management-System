@@ -10,10 +10,6 @@
 
 "A simple Bank Management System built in Python with SQLite"
 
-# Ultimate Bank Management System 🏦🔥
-
-A feature-packed console-based Bank Management System built in Python using SQLite.
-
 ### Features:
 - Account creation with PIN
 - Deposit, Withdraw, Transfer
