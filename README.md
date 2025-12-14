@@ -14,4 +14,3 @@ A feature-packed console-based Bank Management System built in Python using SQLi
 - Admin controls (interest, delete, list all)
 - Minimum balance & security
 
-Perfect for Class 12 Informatics Practices project!
